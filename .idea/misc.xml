@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/RentPe1/app/src/main/res/drawable-v24/btn_back.xml" value="0.2465" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/RentPe1/app/src/main/res/layout/activity_house_desc.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/RentPe1/app/src/main/res/layout/activity_login_acitivty.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/RentPe1/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/RentPe1/app/src/main/res/layout/activity_registration_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/RentPe1/app/src/main/res/layout/activity_splash_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/RentPe1/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/SWAUGAT/Rent/app/src/main/res/drawable-v24/btn_back.xml" value="0.375" />
         <entry key="..\:/Users/SWAUGAT/Rent/app/src/main/res/drawable-v24/buttoncard.xml" value="0.3769230769230769" />
         <entry key="..\:/Users/SWAUGAT/Rent/app/src/main/res/drawable-v24/ic_employee.xml" value="0.375" />

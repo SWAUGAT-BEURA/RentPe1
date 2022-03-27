@@ -101,7 +101,7 @@ public class HomeFragment extends Fragment implements HouseAdapter.ItemClickList
 
     private void loadhouses() {
         ProgressDialog progressDialog = new ProgressDialog(getContext());
-        progressDialog.setMessage("Getting your Food");
+        progressDialog.setMessage("Getting your Homes");
         progressDialog.show();
 
         ApiInterface apiInterface = ApiClient.getClient().create(ApiInterface.class);

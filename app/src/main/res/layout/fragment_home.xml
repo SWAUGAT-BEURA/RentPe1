@@ -34,7 +34,7 @@
                 <androidx.cardview.widget.CardView
                     android:layout_width="@dimen/_140sdp"
                     android:layout_height="@dimen/_50sdp"
-                    android:backgroundTint="#c4c4c4">
+                    android:backgroundTint="@color/blue">
 
                     <TextView
                         android:id="@+id/tv_tt"
@@ -43,7 +43,7 @@
                         android:layout_height="wrap_content"
                         android:text="Total Rented"
                         android:fontFamily="@font/poppins"
-                        android:textColor="@color/black"
+                        android:textColor="@color/white"
                         android:layout_gravity="center_horizontal"/>
 
                     <TextView
@@ -52,7 +52,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="21"
-                        android:textColor="@color/black"
+                        android:textColor="@color/white"
                         android:layout_gravity="center_horizontal"/>
 
 
@@ -62,7 +62,7 @@
                     android:layout_width="@dimen/_140sdp"
                     android:layout_height="@dimen/_50sdp"
                     android:layout_marginStart="@dimen/_5sdp"
-                    android:backgroundTint="#c4c4c4">
+                    android:backgroundTint="@color/blue">
 
                     <TextView
                         android:id="@+id/tv_cc"
@@ -71,7 +71,7 @@
                         android:layout_height="wrap_content"
                         android:text="Payment Due"
                         android:fontFamily="@font/poppins"
-                        android:textColor="@color/black"
+                        android:textColor="@color/white"
                         android:layout_gravity="center_horizontal"/>
 
                     <TextView
@@ -80,7 +80,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="06"
-                        android:textColor="@color/black"
+                        android:textColor="@color/white"
                         android:layout_gravity="center_horizontal"/>
 
 
@@ -102,7 +102,7 @@
                 <androidx.cardview.widget.CardView
                     android:layout_width="@dimen/_140sdp"
                     android:layout_height="@dimen/_50sdp"
-                    android:backgroundTint="#c4c4c4">
+                    android:backgroundTint="@color/blue">
                     <TextView
                         android:id="@+id/tv_py"
                         android:layout_marginTop="@dimen/_5sdp"
@@ -110,7 +110,7 @@
                         android:layout_height="wrap_content"
                         android:text="Payment Due"
                         android:fontFamily="@font/poppins"
-                        android:textColor="@color/black"
+                        android:textColor="@color/white"
                         android:layout_gravity="center_horizontal"/>
 
                     <TextView
@@ -119,7 +119,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="01"
-                        android:textColor="@color/black"
+                        android:textColor="@color/white"
                         android:layout_gravity="center_horizontal"/>
 
                 </androidx.cardview.widget.CardView>
@@ -128,7 +128,7 @@
                     android:layout_width="@dimen/_140sdp"
                     android:layout_height="@dimen/_50sdp"
                     android:layout_marginStart="@dimen/_5sdp"
-                    android:backgroundTint="#c4c4c4">
+                    android:backgroundTint="@color/blue">
 
                     <TextView
                         android:id="@+id/tv_Verify"
@@ -137,7 +137,7 @@
                         android:layout_height="wrap_content"
                         android:text="Verify Pending"
                         android:fontFamily="@font/poppins"
-                        android:textColor="@color/black"
+                        android:textColor="@color/white"
                         android:layout_gravity="center_horizontal"/>
 
                     <TextView
@@ -146,7 +146,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="03"
-                        android:textColor="@color/black"
+                        android:textColor="@color/white"
                         android:layout_gravity="center_horizontal"/>
 
 
